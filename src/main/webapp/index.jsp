@@ -4,7 +4,7 @@
 <title>TravelProject</title>
 <style>
 body { 
-    background: url(images/trvimg1.jpg);
+    background: url(images/trvimg1.jfif);
     background-repeat: no-repeat;
     height: 100%;
     background-size: cover;
@@ -106,7 +106,7 @@ Travel Agent Application for Capstone
 <script language="javascript">
     function check(form)
 {
-     if(form.userid.value == "satya" && form.password.value == "1234" || form.userid.value == "sourav" && form.password.value == "1234")
+     if(form.userid.value == "shiva" && form.password.value == "1234")
       {
         window.location.href= ('loginmainpage.html')
       }
