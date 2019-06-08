@@ -15,7 +15,7 @@ h2 { text-align : left ;color :black ;font-family: algebrain, italic;font-size: 
 </head>
 <body>
 <h1>
-Travel Agent Application for Capstone
+Travel Agent Application 
  </h1>
 <h2> Lets Start a Amazing Travel</h2>
 <h3 align ="center">&nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
